@@ -26,11 +26,13 @@ Key Findings
 - RFM Segmentation:  RFM analysis shows 95% of revenue (£19.93M) comes from just two segments (Champions and Loyalists), highlighting importance of retaining high-value customers 
 
 Dashboard
+
 Dashboard screenshots to be added
 
 Project Files
-Project Report -  Full analysis, findings and business recommendations
-Power BI Dashboard -  Interactive dashboard visualising key customer and revenue insights
+
+- Project Report -  Full analysis, findings and business recommendations
+- Power BI Dashboard -  Interactive dashboard visualising key customer and revenue insights
 
 Skills Demonstrated
 SQL analysis | Customer segmentation |  Data cleaning | Data visualisation | Commercial analysis |  Business recommendations
