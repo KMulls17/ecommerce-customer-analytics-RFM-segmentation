@@ -13,9 +13,10 @@ Power BI
 Power Query
 
 Objectives
-- Analyse customer purchasing behaviour and revenue trends
-- Analyse sales performance to assess high and low velocity products
-- Segment customers using RFM (Recency, Frequency, Monetary) analysis, identifying high-value and potentially at-risk customer groups
+- Evaluate revenue trends across 2010 and 2011 to identify seasonal demand patterns, particularly during Q4, and assess implications for supply chain management
+- Analyse sales performance to determine high-volume products and assess low-performing tail SKUs 
+- Assess revenue concentration across customers and countries, considering the Pareto Principle
+- Use recency, frequency and monetary (RFM) analysis to segment customers by purchasing behaviours and identify high-value and at-risk accounts
 - Investigate opportunities to improve customer retention
 - Translate data findings into actionable business recommendations
 
