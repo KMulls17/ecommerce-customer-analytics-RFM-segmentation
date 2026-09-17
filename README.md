@@ -3,7 +3,7 @@ Customer Analytics & RFM Segmentation
 
 Overview
 
-This project analyses e-commerce customer sales data using SQL and Power BI to investigate purchasing behaviour, customer segments, product performance and potential retention opportunities.
+This project analyses e-commerce customer sales data using SQL and Power BI to investigate purchasing behaviour, customer segments, product performance and potential retention opportunities. Data-driven business recommendations have also been made throughout.
 
 Tools & Software
 
