@@ -3,7 +3,7 @@ Customer Analytics & RFM Segmentation
 
 Overview
 
-Customer transaction analytics project using SQL and Power BI to analyse e-commerce purchasing behaviour, customer segmentation, and identify retention opportunities and strategies.
+This project analyses customer sales data from an e-commerce business using SQL and Power BI. I used the data to investigate purchasing behaviour, customer segments, product performance and potential retention opportunities.
 
 Tools & Software
 
@@ -20,7 +20,7 @@ Objectives
 - Assess revenue concentration across customers and countries, considering the Pareto Principle
 - Use recency, frequency and monetary (RFM) analysis to segment customers by purchasing behaviours and identify high-value and at-risk accounts
 - Investigate opportunities to improve customer retention
-- Translate data findings into actionable business recommendations
+- Use findings to suggest practical actions the business could take
 
 Key Findings
 - Dataset Baseline: Net revenue reached £20.97M across 40K orders over the 2-year trading period
@@ -37,8 +37,8 @@ Dashboard screenshots to be added
 
 Project Files
 
-- Project Report -  Full analysis, findings and business recommendations
-- Power BI Dashboard -  Interactive dashboard visualising key customer and revenue insights
+- Project Report 
+- Power BI Dashboard
 
 Skills Demonstrated
 
