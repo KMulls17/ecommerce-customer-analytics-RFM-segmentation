@@ -7,12 +7,7 @@ This project analyses e-commerce customer sales data using SQL and Power BI to i
 
 Tools & Software
 
-Excel
-PostgreSQL DBMS
-DBeaver SQL Client Engine
-SQL
-Power BI
-Power Query
+Excel | PostgreSQL | DBeaver | SQL | Power BI | Power Query
 
 Objectives
 - Evaluate revenue trends across 2010 and 2011 to identify seasonal demand patterns, particularly during Q4, and assess implications for supply chain management
