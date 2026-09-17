@@ -28,7 +28,19 @@ Key Findings
 
 Dashboard
 
-Dashboard screenshots to be added
+### Executive Overview
+![Executive Overview](Overview%20.png)
+
+### Product Analysis
+![Product Analysis](Product%20Analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Customer%20Analysis.png)
+
+### Customer Segmentation
+![Customer Segmentation](Customer%20Segmentation.png)
+
+[📥 Download Interactive Power BI Dashboard (.pbix)](./E-Commerce%20Analysis%20Dashbaord.pbix)
 
 Project Files
 
