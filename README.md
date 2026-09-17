@@ -39,4 +39,5 @@ Project Files
 - Power BI Dashboard -  Interactive dashboard visualising key customer and revenue insights
 
 Skills Demonstrated
+
 SQL analysis | Customer segmentation |  Data cleaning | Data visualisation | Commercial analysis |  Business recommendations
