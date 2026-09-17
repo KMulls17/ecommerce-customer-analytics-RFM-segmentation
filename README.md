@@ -45,13 +45,11 @@ Dashboard
 **Customer Segmentation**
 ![Customer Segmentation](Customer%20Segmentation.png)
 
-[📥 Download Interactive Power BI Dashboard (.pbix)](./E-Commerce%20Analysis%20Dashbaord.pbix)
-
 ##
 Project Files
 
-- Project Report 
-- Power BI Dashboard
+- [📄 Download / View Full Project Report (PDF)](./Commercial%20Performance%20and%20Operational%20Strategy.pdf)
+- [📥 Download Interactive Power BI Dashboard (.pbix)](./E-Commerce%20Analysis%20Dashbaord.pbix)
 
 ##
 Skills Demonstrated
