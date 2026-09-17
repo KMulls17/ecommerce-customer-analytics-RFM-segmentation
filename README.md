@@ -52,6 +52,15 @@ Project Files
 - [📥 Download Interactive Power BI Dashboard (.pbix)](./E-Commerce%20Analysis%20Dashbaord.pbix)
 
 ##
+Dataset
+
+The dataset used in this project is the Online Retail II dataset by Daqing Chen, sourced from UCL Machine Learning Repository
+
+Chen, D. (2012) Online Retail II. UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii%29
+
+Licensed under CC BY 4.0.
+
+##
 Skills Demonstrated
 
 SQL analysis | Customer segmentation |  Data cleaning | Data visualisation | Commercial analysis |  Business recommendations
