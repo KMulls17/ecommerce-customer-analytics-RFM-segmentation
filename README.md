@@ -1,5 +1,6 @@
 # ecommerce-customer-analytics-RFM-segmentation
 Customer Analytics & RFM Segmentation
+
 Overview
 Customer transaction analytics project using SQL and Power BI to analyse e-commerce purchasing behaviour, customer segmentation, and identify retention opportunities and strategies.
 
