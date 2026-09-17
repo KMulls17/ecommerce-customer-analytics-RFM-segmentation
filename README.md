@@ -54,7 +54,7 @@ Project Files
 ##
 Dataset
 
-The dataset used in this project is the Online Retail II dataset by Daqing Chen, sourced from UCI Machine Learning Repository
+The dataset used in this project is the Online Retail II dataset by Daqing Chen, sourced from UCI Machine Learning Repository. It is not included in this repository due to file size, It can be accessed through the UCI Machine Learning Repository using the link below
 
 Chen, D. (2012) Online Retail II. UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii%29
 
