@@ -40,7 +40,7 @@ Dashboard
 ![Product Analysis](Product%20Analysis.png)
 
 **Customer Analysis**
-![Customer Analysis](Customer%20Analysis.png)
+![Customer Analysis](Customer%20Analysis.png?v=2)
 
 **Customer Segmentation**
 ![Customer Segmentation](Customer%20Segmentation.png)
